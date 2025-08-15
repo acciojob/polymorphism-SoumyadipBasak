@@ -1,5 +1,6 @@
-class Main {
-    public static class Product {
+class Main{
+
+    public class Product {
         public int product(int x, int y) {
             return x * y;
         }
@@ -26,3 +27,4 @@ class Main {
         System.out.println("Product of two doubles: " + productDouble);
     }
 }
+
